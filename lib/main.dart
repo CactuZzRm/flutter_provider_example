@@ -28,7 +28,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class HomePage extends StatelessWidget {
   final String? title;
   const HomePage({super.key, this.title});
